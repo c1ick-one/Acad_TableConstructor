@@ -1,0 +1,5 @@
+C:\Users\kozlovma\source\repos\Acad_TableConstructor\Acad_TableConstructor\bin\Debug\Acad_TableConstructor.dll
+C:\Users\kozlovma\source\repos\Acad_TableConstructor\Acad_TableConstructor\bin\Debug\Acad_TableConstructor.pdb
+C:\Users\kozlovma\source\repos\Acad_TableConstructor\Acad_TableConstructor\obj\Debug\Acad_TableConstructor.csproj.CoreCompileInputs.cache
+C:\Users\kozlovma\source\repos\Acad_TableConstructor\Acad_TableConstructor\obj\Debug\Acad_TableConstructor.dll
+C:\Users\kozlovma\source\repos\Acad_TableConstructor\Acad_TableConstructor\obj\Debug\Acad_TableConstructor.pdb
